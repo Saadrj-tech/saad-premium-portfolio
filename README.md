@@ -26,3 +26,4 @@ The form validates details and opens an email draft using the visitor's mail app
 
 ## Notes
 Project counts and client reviews are placeholders; update them with verified details. Cost calculator amounts are estimates, not a binding quote. No payment is collected.
+# saad-portfolio
